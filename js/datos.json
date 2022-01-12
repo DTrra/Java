@@ -1,0 +1,7 @@
+[
+    {"id":1, "nombre":"PIPETA PERRITO FURIOSO", "imagen":"mascota1.jfif", "descripcion":["Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."], "precio":"3.225.-"},
+    {"id":2, "nombre":"ALIMENTO PERRITO FURIOSO", "imagen":"mascota2.jfif", "descripcion":["Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."], "precio":"7.800.-"},
+    {"id":3, "nombre":"FURIOSO", "imagen":"mascota3.jfif", "descripcion":["Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."], "precio":"2.595.-"},
+    {"id":4, "nombre":"ALIMENTO ", "imagen":"mascota4.jfif", "descripcion":["Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."], "precio":"1.235.-"}
+   
+]
